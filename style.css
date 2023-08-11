@@ -9,6 +9,8 @@ header {
     display: flex;
 }
 
+
+
 .header-logo {
     align-self: left;
     width: 80px;
@@ -38,7 +40,7 @@ a {
 footer {
     color: white;
     text-align: center;
-    background-color: #ffcc00;
+    background-color: #552583;
     padding: 10px;
 
 }

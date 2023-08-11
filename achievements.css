@@ -34,7 +34,7 @@ td img {
     border-radius: 8px;
 }
 
-.table {
+.meja {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -42,7 +42,7 @@ td img {
     margin-top: 40px;
 }
 
-.table img {
+.meja img {
     width: 200px;
 }
 p {
